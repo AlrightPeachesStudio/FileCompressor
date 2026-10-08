@@ -18,7 +18,7 @@ A powerful and user-friendly file compression tool built with PyQt5. Supports mu
 - **5-level Compression Control**: From highest quality to maximum compression
 - **Real-time Feedback**: Live progress updates and detailed processing information
 - **Use the right-click menu to compress**: You can use the right-click menu to compress files without opening the software.
-- **You can also freely add or remove items from the right-click menu for specific file types in the software's settings.
+- **You can also freely add or remove items from the right-click menu for specific file types in the software's settings**.
 
 ## 🚀 Quick Start
 
