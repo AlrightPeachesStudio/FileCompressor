@@ -4,7 +4,7 @@
 
 ![FileCompressor Interface](Interface.jpg)
 
-# [百度Pan也可下载](https://pan.baidu.com/s/1SRWa26k7epgiSwelv5z-4w?pwd=6899)
+## [百度Pan也可下载](https://pan.baidu.com/s/1SRWa26k7epgiSwelv5z-4w?pwd=6899)
 
 A powerful and user-friendly file compression tool built with PyQt5. Supports multiple file formats including videos, audio files, images with intelligent compression algorithms.
 
